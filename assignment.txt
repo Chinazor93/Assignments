@@ -1,0 +1,48 @@
+QUESTION
+With explanation, write out fifteen (15) operators.
+
+ANSWER
+1. -d 
+  This is used to check if a directory exists
+
+2. -a
+  This is used to check if a file exists
+
+3. -b
+  This checks if the file is a block special file
+
+4. == or -eq
+  This operator is checks if two operands are equal
+
+5. != or -ne
+  This operator checks the inequality of two operands
+
+6. % (modulus operator)
+  This operators checks for the remainder after two operands have been divided
+
+7. ++ (Increament operator)
+  This increases an operand's by 1
+
+8. + (Addition operator)
+  This operator is for the addition of two operands
+
+9. -- (Decreament Operator)
+  This decreases an operand by 1
+
+10. = (Assignment operator)
+   This is used to assign a value tp a variable
+
+11. > 
+   This operator checks if the value of the first operand is greater than that of the second operand
+
+12. >=
+   This operator checks if the value of the first operand is greater than or equal to that of the second operand
+
+13. <=
+   This operator checks if the value of the first operand is less than or equal to that of the second operand
+
+14 < 
+  This operator checks if the value of the first operand is less than that of the second operand
+
+15. -s 
+  This is used to check the size of the file
